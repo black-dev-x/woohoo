@@ -1,0 +1,2 @@
+(this.webpackJsonpwoohoo=this.webpackJsonpwoohoo||[]).push([[0],{10:function(o,n,t){"use strict";t.r(n);t(1);var e=t(3),c=t.n(e),s=(t(8),t(0)),i=function(){return Object(s.jsx)("div",{children:"Conflitos"})};c.a.render(Object(s.jsx)(i,{}),document.getElementById("root"))},8:function(o,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.7171a2d7.chunk.js.map

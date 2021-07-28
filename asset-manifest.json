@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/woohoo/static/css/main.afd7172b.chunk.css",
+    "main.js": "/woohoo/static/js/main.7171a2d7.chunk.js",
+    "main.js.map": "/woohoo/static/js/main.7171a2d7.chunk.js.map",
+    "runtime-main.js": "/woohoo/static/js/runtime-main.20ad9be0.js",
+    "runtime-main.js.map": "/woohoo/static/js/runtime-main.20ad9be0.js.map",
+    "static/js/2.1fb7cd2e.chunk.js": "/woohoo/static/js/2.1fb7cd2e.chunk.js",
+    "static/js/2.1fb7cd2e.chunk.js.map": "/woohoo/static/js/2.1fb7cd2e.chunk.js.map",
+    "index.html": "/woohoo/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/woohoo/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.1fb7cd2e.chunk.js.LICENSE.txt": "/woohoo/static/js/2.1fb7cd2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20ad9be0.js",
+    "static/js/2.1fb7cd2e.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.7171a2d7.chunk.js"
+  ]
+}
